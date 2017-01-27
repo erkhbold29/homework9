@@ -1,0 +1,10 @@
+[{ "name": "Location A", "category": "House", "lat": "41.0041741", "lng": "-91.9562988" },
+{ "name": "Location B", "category": "Restaurant", "lat": "41.0064249", "lng": "-91.9631760" },
+{ "name": "Location C", "category": "Office", "lat": "41.0089104", "lng": "-91.9643240" },
+{ "name": "Location A", "category": "Restaurant", "lat": "41.0080684", "lng": "-91.9653432" },
+{ "name": "Location B", "category": "Restaurant", "lat": "41.0083194", "lng": "-91.9621890" },
+{ "name": "Location C", "category": "Office", "lat": "41.0073722", "lng": "-91.9654076" },
+{ "name": "Location A", "category": "House", "lat": "41.0079389", "lng": "-91.9665878" },
+{ "name": "Location B", "category": "Restaurant", "lat": "41.0079389", "lng": "-91.9677358" },
+{ "name": "Location C", "category": "Office", "lat": "41.0108535", "lng": "-91.9632189" },
+{ "name": "Location A", "category": "House", "lat": "41.0121893", "lng": "-91.9684439" }]
